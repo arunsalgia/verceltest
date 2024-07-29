@@ -1,0 +1,24 @@
+# IntelliJ project files
+.idea
+*.iml
+
+# devDependencies
+node_modules
+web_modules
+
+#Source Code
+test
+src
+.eslintrc
+.jscsrc
+
+#Build File
+build
+
+# Backup File
+*.bak
+
+# Video File
+*.mp4
+*.ogv
+*.webm
